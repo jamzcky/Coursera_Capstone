@@ -1,22 +1,26 @@
+A Data Science Approach on Choosing the Best School in Melbourne, Australia
+
 Introduction 
 
-Many people nowadays are busy looking for places where they can spend their long awated vacation. 
-They are bombarded with a lot of possibilities and places to go to and sometimes other places are 
-just hyped and disappointment occur in the long run. For this project, I wanted to focus on that 
-area where people will be given a hint on where to spend their vacations based on their location, 
-the ratings or review and other relevant information that they can use to consider before making 
-a decision thus giving them a gist of experience onto the place before goin there.
+People nowadays are pretty much concerned on the early childhood development of their little ones. As they reach 4 to 5 years of age, parents
+starts to scout to different schools in their area considering many difference factors. This project will give jist and guidance to parents
+as they explore and make decisions on where they can enroll their kids to school in order to give the best foundation to their kids.
 
 Statement of the problem
 
-In this project, I wanted to focus on city in Melbourn or Sydney Australia can offer the grandest yet lowest 
-beaches and/or vacation escapades. This will be beneficial to families as they can already compare different 
-places all at the same time.
+The project focuses in Melbourne, Australia. The battle of which is the best is being tossed from one school to another. Thus, schools are
+tempting yet confusing for parents if they will enroll their kids in that school or not. That dilemma is what I wanted to address
 
 
 
 The Data
 
-The data will be coming from Foursquare. And country target is Australia particularly in Melbourne and/or Sydney. I wanted to give 
+The data will be coming from Foursquare and wikipedia. And country target is Australia particularly in Melbourne Sydney. I wanted to give 
 the user the location, distance, give tips and definition to the place and over all rating based on reviews of people on that specific 
 area.
+
+Wikis:
+- https://en.wikipedia.org/wiki/Education_in_Australia
+- https://en.wikipedia.org/wiki/Lists_of_schools_in_Australia 
+- https://en.wikipedia.org/wiki/List_of_government_schools_in_Victoria,_Australia
+- https://en.wikipedia.org/wiki/List_of_non-government_schools_in_Victoria,_Australia
